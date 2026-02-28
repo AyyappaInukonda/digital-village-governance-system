@@ -1,0 +1,12 @@
+.active {
+    border-bottom: 2px solid;
+    /* border-right: 2px solid; */
+    border-color: rgb(5, 83, 11);
+    border-radius:7px ;
+    /* border-bottom-left-radius: 0; */
+    border-top-right-radius: 0;
+    box-shadow: 10px 10px 10px rgb(159, 221, 164);
+    padding: 3px;
+    margin: 5px;
+    background-color: transparent !important;
+    }
